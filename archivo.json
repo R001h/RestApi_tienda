@@ -1,0 +1,52 @@
+{
+  "products": [
+    {
+      "id": 5,
+      "name": "camisa",
+      "color": "negra",
+      "marca": "fila",
+      "stock": 8,
+      "price": 30
+    },
+    {
+      "id": 6,
+      "name": "camisa",
+      "color": "papaya",
+      "marca": "nike",
+      "stock": 8,
+      "price": "$30.00"
+    },
+    {
+      "id": 7,
+      "name": "bolso",
+      "color": "blanco",
+      "marca": "nike",
+      "stock": 8,
+      "price": "$350.00"
+    },
+    {
+      "id": 8,
+      "name": "jacket",
+      "color": "verde",
+      "marca": "nike",
+      "stock": 8,
+      "price": "$400.00"
+    },
+    {
+      "id": 9,
+      "name": "jacket",
+      "color": "verde",
+      "marca": "nike",
+      "stock": 8,
+      "price": "$400.00"
+    },
+    {
+      "id": 10,
+      "name": "jacket",
+      "color": "verde",
+      "marca": "nike",
+      "stock": 8,
+      "price": "$400.00"
+    }
+  ]
+}
